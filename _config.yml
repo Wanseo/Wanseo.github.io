@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.23.0"
-minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "WanseoJo"
   avatar           : "/assets/images/myself.jpeg"
-  bio              : "Wanseo's **Development** Note ◡̈"
+  bio              : "완서의 **개발노트**◡̈"
   location         : "Pohang"
   email            : "21700693@handong.edu"
   links:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: 
 
 
 # Reading Files
