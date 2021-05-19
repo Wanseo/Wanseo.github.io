@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-19T04:10:26-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ws’s blog</title><subtitle>꿈을 현실로 만드는 개발자</subtitle><author><name>Wanseo Jo</name></author><entry><title type="html">About</title><link href="http://localhost:4000/blog/first-post/" rel="alternate" type="text/html" title="About" /><published>2021-05-19T00:00:00-07:00</published><updated>2021-05-19T00:00:00-07:00</updated><id>http://localhost:4000/blog/first-post</id><content type="html" xml:base="http://localhost:4000/blog/first-post/">&lt;p&gt;&lt;img src=&quot;/assets/images/myself.jpeg&quot; alt=&quot;jpg&quot; title=&quot;내사진&quot; width=&quot;60%&quot; height=&quot;50%&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-19T04:19:29-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ws’s blog</title><subtitle>꿈을 현실로 만드는 개발자</subtitle><author><name>Wanseo Jo</name></author><entry><title type="html">About</title><link href="http://localhost:4000/blog/first-post/" rel="alternate" type="text/html" title="About" /><published>2021-05-19T00:00:00-07:00</published><updated>2021-05-19T00:00:00-07:00</updated><id>http://localhost:4000/blog/first-post</id><content type="html" xml:base="http://localhost:4000/blog/first-post/">&lt;p&gt;&lt;img src=&quot;/assets/images/myself.jpeg&quot; alt=&quot;jpg&quot; title=&quot;내사진&quot; width=&quot;60%&quot; height=&quot;60%&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;꿈을 이루기 위해 묵묵히 노력하면,
-노력이 모여 재능이 된다고 믿습니다.&lt;/p&gt;
+  &lt;p&gt;꿈을 이루기 위해 묵묵히 노력하면, 노력이 모여 재능이 된다고&lt;br /&gt;
+믿습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;내가 가진 재능이 꼭 필요한 곳에 사용 되길 꿈꾸는,
+&lt;p&gt;내가 가진 재능이 꼭 필요한 곳에 사용 되길 꿈꾸는,&lt;br /&gt;
 꿈을 현실로 만드는 개발자 &lt;strong&gt;조완서&lt;/strong&gt; 입니다.&lt;/p&gt;</content><author><name>Wanseo Jo</name></author><category term="blog" /><summary type="html"></summary></entry></feed>
